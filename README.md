@@ -11,9 +11,13 @@ Univesidad de Granada
 
 
 ![img](5seconds.png)
-**Titulo** : _______
+**Titulo** : ______Fast Fashion_
 
-**Autor(es)** ______________
+**Autor(es)** _____Clara Pinazo y Gabriela Sambuceti_________
+
+Diagrama de la historia: https://miro.com/app/board/uXjVGwQ6NGk=/
+
+Canva: https://canva.link/7q82piuntovc5ro
 
 **Resumen** : _________
 

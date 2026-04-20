@@ -77,6 +77,20 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 **Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
 
+Para definir el público objetivo de Fast Fashion se han identificado tres perfiles principales de usuario a partir de una aproximación exploratoria a hábitos de consumo de moda, intereses mediáticos y nivel de sensibilización previa sobre sostenibilidad:
+
+Alba, 20 años – Estudiante universitaria, nivel de ingresos bajo
+Compra con frecuencia en Zara, Shein y otras cadenas de fast fashion, influida por hauls en TikTok e Instagram Reels. Su principal motivación es acceder a ropa “bonita y barata” y estar al día de las tendencias, más que informarse sobre el impacto ambiental. Llega al webdoc por curiosidad o a través de un enlace en redes. Valora recibir información clara y consejos aplicables, especialmente opciones más económicas y con menor impacto para las mismas prendas u ocasiones.
+
+Marcos, 26 años – Profesional del marketing digital, nivel de ingresos medio
+Se declara preocupado por el medioambiente y sigue cuentas de sostenibilidad, pero continúa comprando fast fashion en rebajas por comodidad y precio. Busca contenidos que le ayuden a entender mejor el impacto real de sus decisiones sin sentirse sermoneado, así como distinguir entre greenwashing y cambios estructurales. El webdoc le permite profundizar en datos (volumen de producción, beneficios de las grandes marcas) y acceder a rutas de acción concretas (checklist de compra consciente, cápsulas de consejos).
+
+Lucía, 32 años – Máster en Estudios Ambientales, nivel de ingresos medio-alto
+Compra poca ropa, prioriza segunda mano y marcas éticas, y consume documentales y reportajes sobre fast fashion. Busca proyectos y relatos que pueda reutilizar en su práctica profesional o académica, así como ejemplos rigurosos y actualizados. Encuentra a menudo información fragmentada o piezas basadas solo en el impacto visual. En este contexto, el webdoc funciona como un “archivo interactivo” con casos, cifras, referencias básicas y ejemplos de soluciones (upcycling, reciclaje, segunda mano) que puede citar o compartir en clases y redes.
+
+En conjunto, estos perfiles representan desde consumidoras frecuentes de fast fashion con baja sensibilización previa hasta usuarios con alta conciencia ambiental, permitiendo que el proyecto funcione tanto como herramienta de descubrimiento como de profundización y referencia.
+
+
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 
 (ejemplos/alternativas) 

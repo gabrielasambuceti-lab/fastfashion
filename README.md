@@ -110,6 +110,7 @@ En conjunto, estos perfiles representan desde consumidoras frecuentes de fast fa
 **Inspiración/moodboard**
 
 > (captura de imagen) hecha con miro/milanote o https://excalidraw.com/ 
+<img width="953" height="537" alt="image" src="https://github.com/user-attachments/assets/34ea3423-126e-4c7a-bf55-bc0658b8b172" />
 
 
 

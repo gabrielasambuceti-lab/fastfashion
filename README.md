@@ -23,6 +23,8 @@ Canva: https://canva.link/7q82piuntovc5ro
 
 El juego comienza con una introducción que sitúa al usuario en la tienda, donde deberá armar un outfit completo —top, pantalones y zapatos— eligiendo entre distintas opciones, desde la más sostenible hasta la más dañina, pero más barata. En este recorrido, el jugador se ve interpelado a cuestionar sus elecciones y, al mismo tiempo, aprende —a través de pequeños clips en voz de sus protagonistas— cómo funciona la industria del fast fashion y cuáles son sus principales consecuencias.
 
+A medida que avance la experiencia, el dinero disponible se irá descontando de la cuenta del usuario con cada compra, mientras que, de forma paralela, se irá acumulando un contador que mostrará el costo social y ambiental asociado a sus decisiones. Además, tras determinadas elecciones aparecerán alertas que advertirán sobre el impacto acumulado, especialmente cuando este sea elevado, ofreciendo al usuario la posibilidad de finalizar la compra antes de completar todo el recorrido.
+
 **logotipo** :  <img width="619" height="112" alt="image" src="https://github.com/user-attachments/assets/45a1aa96-3060-49e9-a40f-3da3c4aef978" />
 
 

@@ -73,7 +73,13 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 **Necesidad/oportunidad** 
 
+La industria del fast fashion se ha consolidado como un modelo de consumo rápido, barato y altamente contaminante, con fuertes impactos sociales y ambientales que suelen permanecer invisibles para el público general. Sin embargo, buena parte de la comunicación sobre este tema sigue siendo informativa y unidireccional, y no siempre logra conectar con la experiencia cotidiana de “ir de compras”. Existe, por tanto, la oportunidad de explorar formatos interactivos que vinculen directamente las decisiones de consumo con sus consecuencias, haciendo visible el costo real de cada prenda.
+
+
 **Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+
+La propuesta resulta interesante porque convierte un problema estructural —el modelo de producción y consumo del fast fashion— en una experiencia interactiva situada en un contexto cercano para el usuario: la tienda de ropa y la construcción de un outfit. En lugar de limitarse a informar, el proyecto invita a “poner el cuerpo” en la decisión de compra y a experimentar, en tiempo real, cómo se descuentan el dinero y se acumulan los costos sociales y ambientales de cada elección. Esto permite articular una narrativa crítica sin renunciar a la jugabilidad, y abre la puerta a nuevas formas de educación y sensibilización sobre consumo responsable.
+
 
 **Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
 

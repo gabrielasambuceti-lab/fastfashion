@@ -30,13 +30,21 @@ A medida que avance la experiencia, el dinero disponible se irá descontando de 
 
 **Slogan** (frase motivadora/inspiradora): El verdadero precio de tus prendas
 
-**Hashtag**  ___
+**Hashtag** #FastFashionDoc; #ElCosteDeCadaPrenda
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia**    Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)
 
-**Fecha** : 2024
+**Fecha** : 2026
 
-**Medios** (donde se tiene presencia): 
+**Medios** (donde se tiene presencia):
+
+Sitio web interactivo (versión webdoc jugable)
+
+Proyecciones y presentaciones en festivales y muestras (proyección + demo guiada)
+
+Redes sociales: Instagram, TikTok y X para clips, making of y campaña de sensibilización
+
+Plataforma de vídeo (YouTube o Vimeo) para teaser y tráiler
 
 
 * :octocat: (github url) 

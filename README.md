@@ -11,15 +11,17 @@ Univesidad de Granada
 
 
 ![img](5seconds.png)
-**Titulo** : ______Fast Fashion_
+**Titulo** : Fast Fashion: El verdadero precio de tus prendas
 
-**Autor(es)** _____Clara Pinazo y Gabriela Sambuceti_________
+**Autor(es)** Clara Pinazo y Gabriela Sambuceti
 
 Diagrama de la historia: https://miro.com/app/board/uXjVGwQ6NGk=/
 
 Canva: https://canva.link/7q82piuntovc5ro
 
-**Resumen** : _________
+**Resumen** : Fast Fashion es un documental interactivo en el que el usuario debe tomar sus propias decisiones a la hora de comprar ropa y, en ese proceso, observar los costos sociales y ambientales que conllevan. El público experimentará una interfaz familiar, inspirada en una típica tienda de ropa, pero con un giro que invita a replantearse los hábitos de consumo y las decisiones de compra.
+
+El juego comienza con una introducción que sitúa al usuario en la tienda, donde deberá armar un outfit completo —top, pantalones y zapatos— eligiendo entre distintas opciones, desde la más sostenible hasta la más dañina, pero más barata. En este recorrido, el jugador se ve interpelado a cuestionar sus elecciones y, al mismo tiempo, aprende —a través de pequeños clips en voz de sus protagonistas— cómo funciona la industria del fast fashion y cuáles son sus principales consecuencias.
 
 **logotipo** :  ________
 
